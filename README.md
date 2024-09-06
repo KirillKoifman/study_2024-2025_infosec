@@ -12,6 +12,7 @@ git clone --recursive https://github.com/yamadharma/course-directory-student-tem
 
 # Общие правила
 
+
 -   Рабочее пространство по предмету располагается в следующей иерархии:
 
     ``` bash
